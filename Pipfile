@@ -9,7 +9,7 @@ cx-freeze = "*"
 [packages]
 ytranslate = "==0.2.1"
 wxpython = "==4.0.3"
-twisted = "==19.7.0"
+twisted = "==20.3.0"
 python-redmine = "==2.1.1"
 pyopenssl = "==18.0.0"
 pyaes = "==1.6.1"
